@@ -1,0 +1,27 @@
+# Keil 编译产物
+Objects/
+Listings/
+DebugConfig/
+*.o
+*.d
+*.crf
+*.lst
+*.axf
+*.hex
+*.bin
+*.map
+*.dep
+*.uvguix.*
+*.scvd
+JLinkLog.txt
+
+# 压缩包与日志
+*.zip
+*.log
+
+# 考核资料（体积大，不入库）
+2025-2026寒假考核/
+
+# Windows
+Thumbs.db
+desktop.ini
